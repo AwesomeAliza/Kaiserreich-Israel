@@ -1,4 +1,7 @@
 version="0.1"
+dependencies={
+        "Kaiserreich"
+}
 tags={
 	"Alternative History"
 	"Events"
