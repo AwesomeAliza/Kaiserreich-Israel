@@ -1,0 +1,16 @@
+ISR = {
+    male = {
+        names = {
+            David Noah Levi Tal Yosef Ariel Uri Ari Moshe Noam Avraham Shmuel Ariel Raphael Yisrael Eitan Micheal Daniel Eliya Shimon Yitzhak Chaim Yaakov Shlomo Imri Shimson Aharon Yonatan Adam Yair Mordechai Menachem Omer Eliyahu Benyamin Itamar Amit Malachi Gabriel Eliezer Dor Shalom Aryeh Pinchas
+        }
+    }
+    female = {
+        names = {
+            Sarah Noa Esther Golda Ruth Chana Rachel Elah Rivkah Chaya Shira Ariel Leah Ori Yehudit Naomi Hadassa Yuval Gal Dvora Hadar Shoshana Chava Ofri Tziporah Or Gefen Alma Malka Michal Adele Libi Noa Ayala Abagail Yael Miriam Rahab Uria Gaia Emma Miel Noga Romi
+        }
+    }
+    surnames = {
+        Cohen Levi Mizrahi Peretz Tal Elazar Gonen Bar-Lev Sharon Peled Dayan Katzir Meir Avraham Omer Schwartz Ben-David Shapiro Reuben Yitzhak Goldstien Golan Shalom Rosenberg Baruch Leibowitz Bitton Dahan Agbaria Friedman Katz Yosef Azulay Malakh Zoabi Weiss Ben Dod Hen Eliyahu Galili 
+    }
+    callsigns = {}
+}
