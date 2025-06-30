@@ -1,0 +1,10 @@
+leader_traits = {
+        ISR_founding_father = { #David Ben-Gurion
+        random = no
+        political_power_factor = 0.1
+	    war_support_factor = 0.05
+        stability_factor = 0.05
+    }
+
+}
+

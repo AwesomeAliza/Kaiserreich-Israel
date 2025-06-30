@@ -1,0 +1,21 @@
+characters = {
+
+#######################
+### Country Leaders ###
+#######################
+
+    ISR_david_ben_gurion = {
+        name = ISR_david_ben_gurion
+        portraits = {
+            civilian = {
+                large = GFX_portrait_ISR_david_ben_gurion_civilian_large
+                small = GFX_empty_paper
+            }
+        }
+        country_leader = {
+			desc = ISR_david_ben_gurion_desc
+			ideology = social_democrat_subtype
+			traits = { ISR_founding_father }
+		}
+    }
+}
