@@ -168,6 +168,8 @@
 
  ottoman_province_448: "Tripolitania"
 
+ ottoman_province_992: "Israel"
+
  cyprus_mutasarrifate_state: "Cyprus"
  mt_lebanon_mutasarrifate_state: "Mt. Lebanon"
 
@@ -232,7 +234,9 @@
  ott_the_women_question_backlash: "§YWith the victory of the §cSocial Conservatives§! their support begins to fray as further questions over other points of contention in the constitution divide their base.§!"
 
  ott_syr_spread: "Use [ott_stop_revolt_spread] in §YGreater Syria§! to stop the revolt from spreading\nAffected Vilayets:\n§YAleppo\nHoms\nLatakia\nBeirut\nHaifa\nMa'an\n§!\nAny state with £resistance_texticon §YResistance Strength§! higher than §R70.0%§! will revolt unless dealt with.\n"
+ ott_syr_isr_spread: "Use [ott_stop_revolt_spread] in §YGreater Syria§! to stop the revolt from spreading\nAffected Vilayets:\n§YAleppo\nHoms\nLatakia\nBeirut\nMa'an\n§!\nAny state with £resistance_texticon §YResistance Strength§! higher than §R70.0%§! will revolt unless dealt with.\n"
  ott_gre_spread: "Use [ott_stop_revolt_spread] in the §YGreek Isles§! to stop the revolt from spreading.\nAffected Vilayets:\n§YDodecanese\nAegean Islands\n§!\nAny state with £resistance_texticon §YResistance Strength§! higher than §R70.0%§! will revolt unless dealt with.\n"
+ ott_isr_spread: "Use [ott_stop_revolt_spread] in §Palestine§! to stop the revolt from spreading. \nAffected Vilayets:\nHaifa\ nAny state with £resistance_texticon §YResistance Strength§! higher than §R70.0%§! will revolt unless dealt with.\n"
  ott_stop_revolt_spread_centerlist: "£GFX_decision_generic_police_action §YDeclare Martial Law§! or £GFX_decision_generic_political_discourse §YInstall Loyal Administrators§!"
  ott_stop_revolt_spread_liberal: "£GFX_decision_generic_welfare  §YLoosen Tax Burden§!"
  ott_stop_revolt_spread_kadro: "£GFX_decision_generic_police_action §YDeclare Martial Law§! or £OTT_purge_disloyal_elements §YPurge Disloyal Elements§!"
@@ -397,6 +401,10 @@
  OTT_arab_nationalist_areas: "Arab Nationalist Areas"
  OTT_turkish_nationalist_areas: "Turkish Nationalist Areas"
  OTT_independent_areas: "Independent Areas"
+
+ # Zionist loyality
+ ott_create_Israeli_Vilayets: "Create the Vilayet of Israel"
+ ott_invite_zionist_parties: "Invite Zionist parties to the coalition"
 
 #####################
 # Opinion Modifiers #
@@ -2092,6 +2100,17 @@
  # ottkem.68.t: "Fragmentation of the OHF"
  # ottkem.68.d: "With the matter of succession remaining unsolved, caused by Kemal consistent refusal to formally appoint a successor and instead deferring to an election in the Ottoman parliament, various figures within the OHF are trying to establish themselves as the dominant power in the post-Kemal era. İsmet Reşit currently seems the most likely successor, but conflicts within the party between the moderates under Celal Bayar and the hardliners under Recep Peker are splitting the party in two.\n\nTo make matters worse, talks between the moderate flank OHF and the leadership of the disbanded DF have opened, paving the way towards a possible dismantlement of the single-party dictatorship and its replacement by a broad 'democratic' alternative. This alternative, dubbed the 'Endeavour Front' aims to replace the current government of bureaucrats with a broad front of military figures, conservatives, landowners and the [TUR.Capital.GetCapitalVictoryPointName] elite.\n\nCountered by this threat, the hardliners are rallying around the plans of Recep Peker whose ideas (based on populist movements in Europe and America) plan to unify party and state and fully subject the economy to an étatist model, pushing the secular reforms of Kemal to their extreme.\n\nThus far İsmet Reşit has refrained from openly supporting either side, preferring to walk in the middle of the road and pursue a course of cooperation with both flanks, although his alignment seems thus far closer to the hardliners than the liberal flank."
  # ottkem.68.a: "We must tread carefully"
+
+# ### Kemal wins or loses Zionists loyality
+ottkem_69.t: "Investagtion of Zionist organztions"
+ottkem_69.d: "Amongst the serval interest groups in the Ottomen, a more perplexing one for our government are the various Zionist organations, while they are loyal, for now, many still habor anti Ottomen views even if not openly. Investgating most of them should be an issue of most Jews in the Empire would understand the security aspact of our reason if anything, the issue is one of the biggest Zionist groups are the kibbutzim. While for the most part they are apolitical, the fact they are at the end of the day farming communes, and a den of socialists sparks concerns that it is a syndicalist breeding group, thought inestgating the Kubbtizim would not be popural and will go over badly if nothing damning comes up.
+ottkem_69.a: "Leave the Kubbtzim alone, just focus on groups like Irgun and Haganah."
+ottkem_69.b: "Socialism? In my Ottoman Empire? No way."
+
+ottkem.70.t: "Immgration to Haifi"
+ottkem_70.d: "With the current changing gobal political landscape, more Jew have made the move to their actient home, though some of them have set up shop in the northern areas not part of the M.o.J, thought it is not much of an issue of they tend to be more wealthy immgrant and virtually all of them have their immgration papers in order. The issue remains that this incrase of Jewish migration especially to areas outside the M.o.J is causing tensions. The question of what to do remains.
+ottkem_70.a: "Who cares if their papers are in orders, show them the door.
+ottkem_70.b: "If their papers are in order, there is not much we can do."
 
 ################
 # FEVZI EVENTS #
