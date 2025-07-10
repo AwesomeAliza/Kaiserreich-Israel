@@ -1695,6 +1695,10 @@
  annexation_553_desc: "The city of Beirut has been brought under our control as our troops occupy the region. We must now decide what to do with it."
  annex.4001.a: "Release Lebanon."
 
+ annexation_4050: "The fate of Palestine"
+ annexation_4050_desc: "The ancient lands of Palestine are now under our control, while we can just give to our allies in region, or to a nieghbor who would be more then happy to take it off our hands, making an Jewish state would curry favor with Jews both at home and abroad." 
+ annex.4050.a: "release a Jewish state"
+
  annexation_49: "The Fate of Anatolia"
  annexation_49_desc: "We have destroyed the last remnants of the Turkish state and finally put the 'sick man of Europe' in his grave. Our troops now patrol the streets of Ankara, yet we cannot remain as occupiers forever. A decision will have to be made in regards to the future government of the Turkish people."
  annex.4002.a: "Allow the formation of a new Turkish Republic!"
