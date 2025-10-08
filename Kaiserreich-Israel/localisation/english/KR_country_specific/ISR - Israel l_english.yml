@@ -77,9 +77,34 @@
   ISR_jabotinskys_victory: "Jabotinsky's Victory" #Soccon capstone focus
   ISR_jabotinskys_victory_desc: "We have not only overthrow foregin rule but even withstood socialist influence and Stern's machinations. We can now bring forth a free, liberal, equal Israel."
 
+  ISR_Lehi_Coup: "Danger Lurking Everywhere" 
+  ISR_Lehi_Coup_desc: "While we are at peace, for now, that doesn't change the fact we have enemies internally as well as externally. Whatever they may be socialist, liberal, or Jabotinsky's traitors, and those are just our 'fellow' zionists. Our Arab neighorbor are also eyeing our land, enviously."
+
+  #Puppet
+  ISR_KMT: "White Star of David"
+  ISR_KMT_desc: "In a miraculous turn of events, the KMT has not only brought their revolution to the Middle East but restore Israel. While many liberal within the Zionist movement are now grumbling that the state they hoped for is now taking orders from China, they have to attempt it was the Chinese the rebirth of Israel possible."
+
+  ISR_Three_Principles: "Enshire the Three Principles of the People"
+  ISR_Three_Principles_desc: "While many Zionists wouldn't call themselves Tridemist, they can't deny they share many belifes, perhaps by highlight the similarities, we can garner support."
+
+  ISR_Nationalism: "Nationalism"
+  ISR_Nationalism_desc:  
+
+  ISR_Democracy: "Democracy
+  ISR_Democracy_desc:
+
+  ISR_Socialism: "Socialism"
+  ISR_Socialism_desc:
+
+  ISR_Welfarism: "Welfarism"
+  ISR_Welfarism_desc:
+
+  ISR_KMT_Revolution: "Enshiring the Three Stage Revolution in Israel"
+  ISR_KMT_Revolution_desc:
+
   #Forpol
   ISR_bund_reconcile: "Reconcile with the Bund"
   ISR_bund_reconcile: "While the General Jewish Labour Bund has histocally been opposite to Zionism, the fact is, this opposition has more to do with the fact that every Jew that made Aliyah was one less Jew that would have support them. But why should we let that get in the way of what would be a fruitful partnership? After all, didn't the great Zionist thinkers talked about a thriving Jewish homeland along side a thriving Jewish diaspora? Our new foregin office shall new assest the Bund to help achieve this vision."
 
   ISR_old_scores_to_settle: "Old scores to settle"
-  ISR_old_scores_to_settle_desc: "The General Jewish Labour Bund has time and again opposed us, all for a pity reason too. Now that we are a state of our own, we can use the foreign office to undermind the Bund."
+  ISR_old_scores_to_settle_desc: "The General Jewish Labour Bund has time and again opposed us, all for a petty reason too. Now that we are a state of our own, we can use the foreign office to undermind the Bund."
