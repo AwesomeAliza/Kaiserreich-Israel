@@ -63,22 +63,51 @@
   ISR.9.a: "The name belongs in a museum, mandate all Posts address us as Israel."
   ISR.9.b: "How often do you think of the Roman Empire?"
 
+  ISR.300.t: "Cries for help, a desperate plight" #Fires if Israel remains democratic, while CoF is under the Sorelians and NatFrance is under Action Français
+  ISR.300.d: "While we were successfully working torwads a free Israel, the story in (both) France(s) is deteriorating, as the Sorelians and Action Français have seized power in Paris and Algiers respective, and the Jews in both France's are nows finding themselves target by supports of both, egged on by their respective governments. We must help them."
+  ISR.300.a: "Are we blind? Deploy the ships!"
+
 ### Focus ###
   #Political
-  ISR_hess_vision: "Hess's vision" #Socdem capstone focus
-  ISR_hess_vision_desc: "Moses Hess wrote Rome and Jerusalem in 1862, and while his perdiction of an ultranationialist Germany being the end of Jews in Europe clearly has turned out wrong, the fact is not only has the Ottomen Empire fell but Israel is standing stand by side with the Arab states.
+  ISR_Hess_Vision: "Hess's vision" #Socdem capstone focus
+  ISR_Hess_Vision_desc: "Moses Hess wrote Rome and Jerusalem in 1862, and while his perdiction of an ultranationialist Germany being the end of Jews in Europe clearly has turned out wrong, the fact is not only has the Ottomen Empire fell but Israel is standing stand by side with the Arab states.
 
-  ISR_haams_dream: "Ha'am's Dream" #Soclib captone focus
-  ISR_haams_dream_desc: "Asher Zvi Hirsch Ginsberg, better known as Ahad Ha'am, pioneered Culteral Zionism in oppostion to Herzl's Political Zionism. He wasn't exactly wrong, while having our own state is nice and all, it would mean nothing at the end of the day if they is no cultural. Let's work to ensure that we are not a State of Jews, but a really Jewish State."
+  ISR_Haams_Dream: "Ha'am's Dream" #Soclib captone focus
+  ISR_Haams_Dream_desc: "Asher Zvi Hirsch Ginsberg, better known as Ahad Ha'am, pioneered Culteral Zionism in oppostion to Herzl's Political Zionism. He wasn't exactly wrong, while having our own state is nice and all, it would mean nothing at the end of the day if they is no cultural. Let's work to ensure that we are not a State of Jews, but a really Jewish State."
 
-  ISR_herzls_will: "Herzl's Will" #Soclib other captone focus
-  ISR_herzls_will_desc: "While Zionism had pelenty of members of key figures, the movement would have gotten nowhere were it not for Theodor Herzl. We have willed his vision and now as a result an indepent Jewish state is no longer a dream but a reality."
+  ISR_Herzls_Will: "Herzl's Will" #Soclib other captone focus
+  ISR_Herzls_Will_desc: "While Zionism had pelenty of members of key figures, the movement would have gotten nowhere were it not for Theodor Herzl. We have willed his vision and now as a result an indepent Jewish state is no longer a dream but a reality."
 
-  ISR_jabotinskys_victory: "Jabotinsky's Victory" #Soccon capstone focus
-  ISR_jabotinskys_victory_desc: "We have not only overthrow foregin rule but even withstood socialist influence and Stern's machinations. We can now bring forth a free, liberal, equal Israel."
+  ISR_Jabotinskys_Victory: "Jabotinsky's Victory" #Soccon capstone focus
+  ISR_Jabotinskys_Victory_desc: "We have not only overthrow foregin rule but even withstood socialist influence and Stern's machinations. We can now bring forth a free, liberal, equal Israel."
 
   ISR_Lehi_Coup: "Danger Lurking Everywhere" 
   ISR_Lehi_Coup_desc: "While we are at peace, for now, that doesn't change the fact we have enemies internally as well as externally. Whatever they may be socialists, liberals, or even Jabotinsky's traitors, and those are just our 'fellow' zionists. Our Arab neighorbor are also eyeing our land, enviously."
+
+  #Military
+  ISR_Revolt: "War of Indepence"
+  ISR_Revolt_desc: "The time has come to end our two millennium of exile. Am Y'Israel Chai."
+
+  ISR_Vs_OTT: "Marching with our Arab cousins"
+  ISR_Vs_OTT_desc: "The Ottoman Turks are collapsing under the weight under their own empire, with Egpytian assistance, we have taken up arms against the Ottomans along side our Cario Pact ally's."
+
+  ISR_Vs_SYR: "Against Damascus"
+  ISR_Vs_SYR_desc: "The SSNP has gone mad, with Lebanon opting out of this maddness, so should we."
+
+  ISR_Unite_armies: "Unify the militas"
+  ISR_Unite_armies_desc: "The Haganda, Irgun and Lehi, while on their own can operate while on their own right, can't achieve the dream of a free Israel if disunited. Let's unite into one army and put our differences aside, for now."
+  
+  ISR_IDF: "Formise the Israel Defense Force"
+  ISR_IDF_desc: "With independence secured and the nation at peace, let's standardise the Amry"
+
+  ISR_Army: "Modernise the Army"
+  ISR_Army_desc: "While we did unite our miltias into a unified Military, not every devision is upto standards, while we had to other looks issues with miltias in our Indepence War, we are now in a better postion to fix the issues."
+
+  ISR_Navy: "A Reborn Navy, for a Reborn State"
+  ISR_Navy_desc: "The Two Kingdons of old didn't have much of a navy, but history has shown the war at sea is as important as the war upon land. We need to work on a navy."
+
+  ISR_Air_Force: "Reaching for Distant Skies"
+  ISR_Air_Force_desc: "Since the Weltkreig, the power of an Airforce has continued to show their merits. We have to build an airforce."
 
   #Puppet
   ISR_KMT: "White Star of David" #KMT puppet tree
@@ -103,8 +132,31 @@
   ISR_KMT_Revolution_desc: "While many confident that Israel can get to the third stage before China, this doesn't mean that both would go our septerate ways, as a matter of fact this will only further our special relationship."
 
   #Forpol
-  ISR_bund_reconcile: "Reconcile with the Bund"
-  ISR_bund_reconcile: "While the General Jewish Labour Bund has histocally been opposite to Zionism, the fact is, this opposition has more to do with the fact that every Jew that made Aliyah was one less Jew that would have support them. But why should we let that get in the way of what would be a fruitful partnership? After all, didn't the great Zionist thinkers talked about a thriving Jewish homeland along side a thriving Jewish diaspora? Our new foregin office shall new assest the Bund to help achieve this vision."
+  ISR_Bund_Reconcile: "Reconcile with the Bund"
+  ISR_Bund_Reconcile: "While the General Jewish Labour Bund has histocally been opposite to Zionism, the fact is, this opposition has more to do with the fact that every Jew that made Aliyah was one less Jew that would have support them. But why should we let that get in the way of what would be a fruitful partnership? After all, didn't the great Zionist thinkers talked about a thriving Jewish homeland along side a thriving Jewish diaspora? Our new foregin office shall new assest the Bund to help achieve this vision."
 
-  ISR_old_scores_to_settle: "Old scores to settle"
-  ISR_old_scores_to_settle_desc: "The General Jewish Labour Bund has time and again opposed us, all for a petty reason too. Now that we are a state of our own, we can use the foreign office to undermind the Bund."
+  ISR_Old_Scores_To_Settle: "Old scores to settle"
+  ISR_Old_Scores_To_Settle_desc: "The General Jewish Labour Bund has time and again opposed us, all for a petty reason too. Now that we are a state of our own, we can use the foreign office to undermind the Bund."
+
+  ISR_America: "With the Eagle"
+  ISR_America_desc: "Unlike Europe, the United States has no history of offical state mandate antisemitism, seeing as the League of American States is now beoming a more internation Atlantic Treaty Organization, it is only logical when should join them, and their cause."
+
+  ISR_Reichspakt: "Under the Reichspakt"
+  ISR_Reichspakt_desc: "Germany has long been a stablising force for the world, it is only nature we join them to assist their efforts. The fact the Reichspakt is home to most of the worlds Jews can also help solify our standing trowads them"
+
+  ISR_Entente: "To aid other exiles"
+  ISR_Entente_desc: "The Entente, much like we were for the longest time, are exiles seeking to reclaim their homeland, let's help them."
+  ISR_Entente_desc_alt: "Before Liberal crybabies can bellow about the the anti-democratic reigme in Algiers, it just shows the French exiles, much like us, has simply seen the folly of democracy, and nows power belongs to those capable, not to good orators." 
+
+  ISR_Moscow_Accord: "Walking With the Bear"
+  ISR_Moscow_Accord_desc: "While our history with Russia wasm't the best, times have changed, and Russia has a much more democratic consitution." 
+  ISR_Moscow_Accord_desc_alt: "Sanikov much like Stern is neither pursuing socialism or liberalism but a third way. Why refuse an ideological alliance over the Tsarist past which Sanikov fought against? 
+
+  ISR_Third_International: "For the Revolution"
+  ISR_Third_International_desc: "We have overthrow the Ottoman imperialists of our homeland along with other the Reactionaries seeking to subvert the revolution, now we must stand to assist the global Revolution."
+
+  ISR_Cario_Pact: "Alongside the Cario Pact"
+  ISR_Cario_Pact_desc: "A Surprise to many, but a welcome surprise. Not only have we firmly established recongize from our nieghbors, but we are now offical marching side by side along the Cario Pact."
+
+  ISR_Neutral: "Retreat from foregin Affairs"
+  ISR_Neutral_desc: "Our war for Indepence no doubt took a toll on us, we should we repeat that again? It would be better to hold a policy of neutral and look inwards. Joining a foregin allience can also cause Jews who live in states with other alliences to have their loyalities doubted, we cause them that kind of trouble?"
