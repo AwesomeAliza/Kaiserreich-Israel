@@ -69,13 +69,16 @@
 
 ### Focus ###
   #Political
+  ISR_Indepence: "Indepence at Last"
+  ISR_Indepence: "Finially, after two thousand years, we are finially an independent state once again. Now we can get down to business."
+  
   ISR_Hess_Vision: "Hess's vision" #Socdem capstone focus
   ISR_Hess_Vision_desc: "Moses Hess wrote Rome and Jerusalem in 1862, and while his perdiction of an ultranationialist Germany being the end of Jews in Europe clearly has turned out wrong, the fact is not only has the Ottomen Empire fell but Israel is standing stand by side with the Arab states.
 
-  ISR_Haams_Dream: "Ha'am's Dream" #Soclib captone focus
+  ISR_Haams_Dream: "Ha'am's Dream" #Marlib captone focus
   ISR_Haams_Dream_desc: "Asher Zvi Hirsch Ginsberg, better known as Ahad Ha'am, pioneered Culteral Zionism in oppostion to Herzl's Political Zionism. He wasn't exactly wrong, while having our own state is nice and all, it would mean nothing at the end of the day if they is no cultural. Let's work to ensure that we are not a State of Jews, but a really Jewish State."
 
-  ISR_Herzls_Will: "Herzl's Will" #Soclib other captone focus
+  ISR_Herzls_Will: "Herzl's Will" #Marlib other captone focus
   ISR_Herzls_Will_desc: "While Zionism had pelenty of members of key figures, the movement would have gotten nowhere were it not for Theodor Herzl. We have willed his vision and now as a result an indepent Jewish state is no longer a dream but a reality."
 
   ISR_Jabotinskys_Victory: "Jabotinsky's Victory" #Soccon capstone focus
@@ -91,8 +94,14 @@
   ISR_Vs_OTT: "Marching with our Arab cousins"
   ISR_Vs_OTT_desc: "The Ottoman Turks are collapsing under the weight under their own empire, with Egpytian assistance, we have taken up arms against the Ottomans along side our Cario Pact ally's."
 
+  ISR_Ottomans_are_Rome: "Against the claimants of the Roman Empire"
+  ISR_Ottomans_are_Rome_desc: "About Two millennium ago, the Rome Empire sacked Jerusalem and exiled us, now we are at war with a state that claims to be the successor of Rome, let's oblige them, after all it would make great propaganda." 
+
   ISR_Vs_SYR: "Against Damascus"
   ISR_Vs_SYR_desc: "The SSNP has gone mad, with Lebanon opting out of this maddness, so should we."
+
+  ISR_Not_That_Judas: "In the Footsteps of Judas Maccabeus"
+  ISR_Not_That_Judas_desc: "This ins't the first time we were at war with a Syrian government. Much like Judas Maccabaeus before us, the Syrians will find themselves in for a nasty surprise. The men who had delusions that they were comedians and made smart comments about the other Judas have now found themselves on the front lines with faulty weapons."
 
   ISR_Unite_armies: "Unify the militas"
   ISR_Unite_armies_desc: "The Haganda, Irgun and Lehi, while on their own can operate while on their own right, can't achieve the dream of a free Israel if disunited. Let's unite into one army and put our differences aside, for now."
@@ -111,7 +120,7 @@
 
   #Puppet
   ISR_KMT: "White Star of David" #KMT puppet tree
-  ISR_KMT_desc: "In a miraculous turn of events, the KMT has not only brought their revolution to the Middle East but restore Israel. While many liberal within the Zionist movement are now grumbling that the state they hoped for is now taking orders from China, they have to attempt it was the Chinese the rebirth of Israel possible."
+  ISR_KMT_desc: "In a miraculous turn of events, the KMT has not only brought their revolution to the Middle East but restore Israel. While many liberal within the Zionist movement are now grumbling that the state they hoped for is now taking orders from China, they have to admit it was the Chinese the rebirth of Israel possible."
 
   ISR_Three_Principles: "Enshire the Three Principles of the People"
   ISR_Three_Principles_desc: "While many Zionists wouldn't call themselves Tridemist, they can't deny they share many belifes, perhaps by highlight the similarities, we can garner support for Cohen's government so he is not seen as a KMT stooge, but as a visionary."
@@ -139,7 +148,7 @@
   ISR_Old_Scores_To_Settle_desc: "The General Jewish Labour Bund has time and again opposed us, all for a petty reason too. Now that we are a state of our own, we can use the foreign office to undermind the Bund."
 
   ISR_America: "With the Eagle"
-  ISR_America_desc: "Unlike Europe, the United States has no history of offical state mandate antisemitism, seeing as the League of American States is now beoming a more internation Atlantic Treaty Organization, it is only logical when should join them, and their cause."
+  ISR_America_desc: "Unlike Europe, the United States has no history of offical state mandated antisemitism, seeing as the League of American States is now beoming a more internation Atlantic Treaty Organization, it is only logical when should join them, and their cause."
 
   ISR_Reichspakt: "Under the Reichspakt"
   ISR_Reichspakt_desc: "Germany has long been a stablising force for the world, it is only nature we join them to assist their efforts. The fact the Reichspakt is home to most of the worlds Jews can also help solify our standing trowads them"
