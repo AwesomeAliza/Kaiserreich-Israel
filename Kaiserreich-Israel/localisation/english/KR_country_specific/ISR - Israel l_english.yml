@@ -57,6 +57,10 @@
   ISR_david_ben_gurion_desc: "David Ben-Gurion, born David Grün in Congress Poland, immigrated to the Vilayet of Jerusalem in Ottoman Palestine in 1905 during the peroid of the second Yishuv. After a long and successful career in representing Jewish workers unions and political groups to the local Ottoman authorities, he has risen to become the preeminent leader of both Labor Zionism and the Yishuv itself. After the decline of the Ottoman Empire in the levant, and the potential for Arab Nationalist violence to take it's place, Ben-Gurion has decided to act now. Both to save the Yishuv from potential violence or destruction from fanatical neighbors, and to make into reality the Zionist dream of Jewish independence."
 
 ### Events ###
+
+  ISR.1.t: "Indepence Proclaim"
+  ISR.1.d: "After 2000 years of exile, the time has finally come for the rebirt of Israel, now the we had proclaim indepence, we must now secure it."
+  ISR.1.a: "Am Y'Israel Chai."
   
   ISR.9.t: "Mailling Address"
   ISR.9.d: "With indepence secured and a permanent government established, one odd issue is the name, while pretty much everyone is fine with Israel,the fact is for the longest time, the region was know as Palestine, a name derived from Syria Palaestina, a name given by the Romans after the Roman-Jewish War, meant to dejudaize the province. WEven though we are independent now, sereval pieces of mail still use the old name, while we can pass a law mandate all post be return if they us Palestine instead of Israel, it can be since as a waste of time and money for the Postal service."
@@ -71,6 +75,28 @@
   #Political
   ISR_Indepence: "Indepence at Last"
   ISR_Indepence: "Finially, after two thousand years, we are finially an independent state once again. Now we can get down to business."
+
+  ISR_Socialism: "The Red Star of David"
+  ISR_Socialism_desc: "It was an inevaiblty, most rank and file Zionists are socialist, why should we even bother giving the other Zionists the time of day? We will hold our own new Zionist congress, without any liberal or reactionary dissents, they can be outside shouting while we conduct the serious business."
+  ISR_Soc_tt: "A Zionist COngress shall be held but only for Socialists"
+
+  ISR_Maki: "A Communist revolution in the Levant"
+  ISR_Naki: "How can we call ourselves for the worker's revolution in good faith when all our nieghbours are still repressing them, we must use o geopolitical postion to spread the Socialist Revolution in the Middle East."
+
+  ISR_Red_Day: "A Red Day" #Totalist capstone focus
+  ISR_Red_Day_desc: "It has finially be done, a new Red Middle East is shinning forth apon the world, and now a beacon for more Revolutions."
+
+  ISR_HHWP: "A Workers Revolution"
+  ISR_HHWP: "What more praise caany self repecting Socialist give Israel? We otherthrew the Imperialist overlords, outsmarted Liberals and Reactionaries and create a socialist state, we we no doubt coninue to impress them and create the worker's paradise within the desert."
+
+  ISR_Workers_Paradise: "Worker's Paradise" #Syndie captone focus
+  ISR_Workers_Paradise_desc: "To some it was a fansty, to others a dream come true, a Socialist, Free Jewish Homeland."
+
+  ISR_PZ: "Orthodox Socialists"
+  ISR_PZ: "While the Maki, and HHWP, have their Western European support, the fact is most Jews are Eastern European anprefer a party for them, not some British or French, intellectuals." 
+
+  ISR_Red_Israel: "A Socialist Zion" #Radsoc capstone focus
+  ISR_Red_Israel_desc: "The Dream is complete, a socialist Israel."
   
   ISR_Hess_Vision: "Hess's vision" #Socdem capstone focus
   ISR_Hess_Vision_desc: "Moses Hess wrote Rome and Jerusalem in 1862, and while his perdiction of an ultranationialist Germany being the end of Jews in Europe clearly has turned out wrong, the fact is not only has the Ottomen Empire fell but Israel is standing stand by side with the Arab states.
